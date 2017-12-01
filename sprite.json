@@ -1,23 +1,65 @@
 {
-  "tree-1": {
+  "tree": {
     "height": 40,
     "pixelRatio": 1,
     "width": 40,
     "x": 0,
     "y": 0
   },
-  "tree-2": {
+  "tree-all": {
     "height": 40,
     "pixelRatio": 1,
     "width": 40,
     "x": 40,
     "y": 0
   },
-  "tree-3": {
+  "tree-b": {
     "height": 40,
     "pixelRatio": 1,
     "width": 40,
     "x": 0,
     "y": 40
+  },
+  "tree-bl": {
+    "height": 40,
+    "pixelRatio": 1,
+    "width": 40,
+    "x": 40,
+    "y": 40
+  },
+  "tree-bt": {
+    "height": 40,
+    "pixelRatio": 1,
+    "width": 40,
+    "x": 80,
+    "y": 0
+  },
+  "tree-btl": {
+    "height": 40,
+    "pixelRatio": 1,
+    "width": 40,
+    "x": 120,
+    "y": 0
+  },
+  "tree-l": {
+    "height": 40,
+    "pixelRatio": 1,
+    "width": 40,
+    "x": 80,
+    "y": 40
+  },
+  "tree-t": {
+    "height": 40,
+    "pixelRatio": 1,
+    "width": 40,
+    "x": 120,
+    "y": 40
+  },
+  "tree-tl": {
+    "height": 40,
+    "pixelRatio": 1,
+    "width": 40,
+    "x": 0,
+    "y": 80
   }
 }
