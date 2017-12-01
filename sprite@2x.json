@@ -1,0 +1,23 @@
+{
+  "tree-1": {
+    "height": 80,
+    "pixelRatio": 2,
+    "width": 80,
+    "x": 0,
+    "y": 0
+  },
+  "tree-2": {
+    "height": 80,
+    "pixelRatio": 2,
+    "width": 80,
+    "x": 80,
+    "y": 0
+  },
+  "tree-3": {
+    "height": 80,
+    "pixelRatio": 2,
+    "width": 80,
+    "x": 0,
+    "y": 80
+  }
+}
